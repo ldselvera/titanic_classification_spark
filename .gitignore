@@ -1,7 +1,7 @@
 # ignore generated csv files
 *.csv
+*.ipynb
 
 data/
 .git/
-.ipynb_checkpoints
 .ipynb_checkpoints/
