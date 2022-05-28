@@ -1,4 +1,6 @@
-# titanic_classification_spark
+# Titanic Classification using Spark
+
+An Apach Spark implementation of Titanic Classification using Decision Trees.
 
 ## Dataset
 
