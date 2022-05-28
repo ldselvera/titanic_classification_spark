@@ -8,7 +8,9 @@ The “Titanic” dataset will be used and may be downloaded from Kaggle website
 
 ## Notebooks
 
-The notebook titanic_spark.ipynb can be executed in Google Colab. The only extra requirements are:
+The notebook [titanic_spark.ipynb](https://github.com/ldselvera/titanic_classification_spark/blob/main/titanic_spark.ipynb) can be executed in Google Colab. The only extra requirements are:
 
 * Execute installation commands
 * Import dataset
+
+The other notebooks are meant to be executed in a local system.
