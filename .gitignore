@@ -1,0 +1,4 @@
+# ignore generated csv files
+*.csv
+
+./ipynb_checkpoints
